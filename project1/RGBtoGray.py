@@ -20,8 +20,7 @@ print(rbg_gray.shape) # shape (736, 736)
 cv2.imshow('just2ofus_bgr',gray_rgb)
 # print(gray_rgb.shape) # shape (736, 736, 3)
 
-
-
-
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+#hello
